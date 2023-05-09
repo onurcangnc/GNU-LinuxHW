@@ -1,0 +1,402 @@
+    1  whoami
+    2  clear
+    3  pwd root
+    4  passwd kali
+    5  clear
+    6  passwd root
+    7  clear
+    8  passwd kali
+    9  clear
+   10  ls
+   11  cd Desktop
+   12  ls
+   13  ..
+   14  cd ..
+   15  ls
+   16  ls -l
+   17  ls -la
+   18  clear
+   19  ls -la
+   20  ls -la Desktop/
+   21  ls
+   22  cd /home
+   23  ls
+   24  cd kali
+   25  ls
+   26  ls -la Desktop/
+   27  ls -la user*
+   28  ls -la user
+   29  ls -la *desktop
+   30  clear
+   31  sudo kali
+   32  scp onurcan.genc@139.179.33.218 /home/onurcan.genc /home/kali/index.html
+   33  ls
+   34  clear
+   35  ls
+   36  pwd
+   37  scp onurcan.genc@139.179.33.218:/home/onurcan.genc/index.html /home/kali
+   38  ls
+   39  scp onurcan.genc@139.179.33.218:/home/onurcan.genc/db.elnegrozumbon.com.save  /home/kali
+   40  ls
+   41  cat db.elnegrozumbon.com.save
+   42  clear
+   43  history -d all
+   44  history -d 1-999
+   45  history -d 1-500
+   46  history -d 500
+   47  history -d
+   48  history -d 355
+   49  ls
+   50  clear
+   51  ..
+   52  cd ..
+   53  ls
+   54  clear
+   55  cd ..
+   56  ls
+   57  cat ./bash_history
+   58  history
+   59  clear
+   60  ls
+   61  cd home
+   62  ls
+   63  clear
+   64  cd kali
+   65  clear
+   66  l
+   67  mkdir Lab4
+   68  cp Lab4 /Desktop
+   69  cp Lab4 /Desktop/
+   70  cp -r Lab4 /Desktop/
+   71  ls
+   72  clear
+   73  cd Desktop
+   74  ls
+   75  cd ..
+   76  ls
+   77  cp Lab4 Desktop
+   78  cp -r Lab4 Dekstop
+   79  cp -r Lab4 Desktop
+   80  ls
+   81  clear
+   82  cd Desktop
+   83  ls
+   84  cd ..
+   85  ls
+   86  mkdir newlab
+   87  mv /home/kali/newlab /home/kali/Desktop/lab
+   88  ls
+   89  rm Dekstop
+   90  rm -r Dekstop
+   91  ls
+   92  clear
+   93  cd Desktop
+   94  ls
+   95  clear
+   96  ls
+   97  mkdir -p lab/{Departments/CS{101, 102, 201, 202}/Labquizes, Departments/CTIS{155, 156, 157, 158, 165, 166, 167, 168}/LectureNotes, Departments/ECON{221, 222, 251, 252}/LectureVideos};
+   98  ls
+   99  cd lab
+  100  mkdir -p lab/{Departments/CS{101, 102, 201, 202}/Labquizes, Departments/CTIS{155, 156, 157, 158, 165, 166, 167, 168}/LectureNotes, Departments/ECON{221, 222, 251, 252}/LectureVideos};
+  101  ls
+  102  rm 102,
+  103  rm -r 102,
+  104  rm -r 156,
+  105  rm -r 157,
+  106  rm -r 158,
+  107  rm -r 252}
+  108  rm -r 168}
+  109  rm -r 202}
+  110  rm -r Departents
+  111  ls
+  112  clear
+  113  ls
+  114  rm -r
+  115  rm -r 165,
+  116  ls
+  117  rm -r 166,
+  118  rm -r 167,
+  119  ls
+  120  rm -r 201,
+  121  rm -r 222,
+  122  rm -r 251,
+  123  rm -r {Departments,
+  124  rm -r {Departments
+  125  rm -r Departments
+  126  ls
+  127  clear
+  128  cd ..
+  129  ls
+  130  cd lab
+  131  rm -r lab
+  132  cd ..
+  133  clear
+  134  ls
+  135  rm -r 168}
+  136  rm -r 202}
+  137  rm -r 252}
+  138  ls
+  139  rm -r Departments
+  140  ls
+  141  clear
+  142  mkdir -p LabQuiz/Departments/CS{101,102,201, 202}/LabQuizes,CTIS/{155,156,157,158,165,166,167,168}/LectureNotes,ECON/{221,222,251,252}/LectureVideos
+  143  ls
+  144  rm -r 202}
+  145  rm -r LabQuiz
+  146  mkdir -p LabQuiz/Departments{CS/{101,102,201,202}/LabQuizes, CTIS/{155, 156, 157, 158, 165, 166, 167, 168}/LectureNotes, ECON{221, 222, 251, 252}/LectureVideos};
+  147  ls
+  148  rm -r 168}
+  149  rm -r 252}
+  150  ls
+  151  rm -r CTIS
+  152  rm -r LabQuiz
+  153  clear
+  154  ls
+  155  mkdir newlab
+  156  mv newlab lab
+  157  cd lab
+  158  ls
+  159  mkdir -p LabQuiz/Departments{CS{101,102,201,202}/LabQuizes, CTIS{155, 156, 157, 158, 165, 166, 167, 168}/LectureNotes, ECON{221, 222, 251, 252}/LectureVideos};
+  160  mkdir -p LabQuiz/Departments/{CS{101,102,201,202}/LabQuizes, CTIS{155,156,157,158,165,166,167,168}/LectureNotes, ECON{221,222,251,252}/LectureVideos};
+  161  man mv
+  162  clear
+  163  ls
+  164  clear
+  165  ls
+  166  rm -r test.txt new_test.txt
+  167  ls
+  168  clear
+  169  ls
+  170  cat db.elnegrozumbon.com.save
+  171  clear
+  172  ls
+  173  clear
+  174  man cat
+  175  ls
+  176  cat -n index.html
+  177  clear
+  178  man cat
+  179  man cat || line
+  180  cat -b index.html
+  181  cat -n index.html
+  182  man cat
+  183  whatis fsck
+  184  man pwd
+  185  man -k pwd
+  186  appropos pwd
+  187  apropos pwd
+  188  man pwd
+  189  man ls
+  190  ls -l
+  191  ls -c
+  192  man ls
+  193  ls -t
+  194  ls -l
+  195  clear
+  196  ls -ltr
+  197  clear
+  198  ssh onurcan.genc@139.179.33.218
+  199  clear
+  200  apropos password
+  201  clear
+  202  ls
+  203  cd /home/
+  204  apropos binary
+  205  whereis ls
+  206  whereis head
+  207  man -k hidden files
+  208  clear
+  209  apropos ls
+  210  clear
+  211  man ls
+  212  clear
+  213  man -k hidden files
+  214  clear
+  215  man ls
+  216  ls -l
+  217  ls
+  218  man ls
+  219  ls -la
+  220  clear
+  221  who
+  222  apropos server
+  223  clear
+  224  man -k who
+  225  clear
+  226  who
+  227  whoami
+  228  man -k kernel
+  229  clear
+  230  apropos version
+  231  linux-version
+  232  apropos kernel
+  233  clear
+  234  man -k server
+  235  clear
+  236  apropos connected
+  237  whatis uname
+  238  apropos kernel
+  239  clear
+  240  man uname
+  241  uname- a
+  242  uname -a
+  243  man uname
+  244  uname -v
+  245  man uname
+  246  uname -v
+  247  uname -r
+  248  man uname
+  249  whatis write
+  250  man -k messaging
+  251  man -k messag
+  252  man -k messaging
+  253  clear
+  254  man -k messag
+  255  clear
+  256  msg
+  257  mesg
+  258  clear
+  259  whatis mesg
+  260  man mesg
+  261  mesg y
+  262  mesg
+  263  mesg n
+  264  mesg
+  265  mesg y
+  266  ls
+  267  mesg
+  268  clear
+  269  exit
+  270  rm lab
+  271  rm -r lab
+  272  clear
+  273  who
+  274  clear
+  275  man who
+  276  whoami
+  277  apropos users
+  278  man -k users
+  279  users
+  280  uname
+  281  man uname
+  282  clear
+  283  man uname
+  284  uname -a
+  285  man uname
+  286  finger 
+  287  wr
+  288  man write
+  289  man mesg
+  290  clear
+  291  touch test.txt
+  292  ls
+  293  rm test
+  294  clear
+  295  ls
+  296  nano test.txt
+  297  reboot
+  298  clear
+  299  whatis apropos
+  300  cd .
+  301  cd ..
+  302  ls
+  303  clear
+  304  whatis fsck
+  305  whatis "fsck"
+  306  whatis 'fsck'
+  307  clear
+  308  sudo apt-get update
+  309  sudo apt-get upgrade
+  310  clear
+  311  sudo mandb
+  312  clear
+  313  su su
+  314  su kali
+  315  clear
+  316  sudo apt update && upgrade
+  317  clear
+  318  su kali
+  319  clear
+  320  touch cur2382941bjsbjsdbvj.txt
+  321  clearclear
+  322  clear
+  323  ls -l cur*
+  324  touch cur23124124gfdgdfsfdv.h
+  325  ls -l cur*.h
+  326  clear
+  327  ls -l f*b*.h
+  328  touch ases.h
+  329  touch bsesasdasdasdasd.h
+  330  ls -l {a-c}*ses*.h
+  331  ls -l [a-c]*ses*.h
+  332  clear
+  333  ls -l *txt
+  334  ls -l .txt
+  335  ls -l *.txt
+  336  ls -l *{.html,.c,.txt}
+  337  clear
+  338  touch index.html
+  339  touch mallocc.c
+  340  touch 152.txt
+  341  clear
+  342  ls -l *{.html,.c,.txt}
+  343  cd /etc/
+  344  clear
+  345  ls
+  346  clear
+  347  s*d*.conf
+  348  ls -l s*d*.conf
+  349  clear
+  350  ls -l s*d*.conf
+  351  ls -l s??d*.conf
+  352  ls -l s??d.conf
+  353  touch seld.conf
+  354  ls -l s??d.conf
+  355  clear
+  356  cd /home/
+  357  clear
+  358  man ls
+  359  clear
+  360  ls -la 
+  361  ls -l [^f]*.conf
+  362  touch flkh.txt
+  363  ls -l [^f]*.conf
+  364  touch abcdsf.txt
+  365  ls -l [^f]*.conf
+  366  ls
+  367  rm abcdsf.txt flkh.txt
+  368  clear
+  369  ls
+  370  clear
+  371  touch abcghf.conf
+  372  touch fkjhlmn.conf
+  373  clear
+  374  ls -l [^f].conf
+  375  ls -l [^f]*.conf
+  376  ls -l [^f]conf
+  377  ls -l [^f].conf
+  378  ls -l [^f]*conf
+  379  ls -l [^0-9]*
+  380  ls -l [^0-9]
+  381  clear
+  382  cd /home/kali
+  383  clear
+  384  shutdown
+  385  shutdown -c
+  386  clear
+  387  poweroff
+  388  clear
+  389  ls
+  390  cd ..
+  391  ls
+  392  cd /home/kali/Desktop/Companies/
+  393  tree
+  394  clear
+  395  man tr
+  396  man comm
+  397  comm -12 uniqueWord1.txt uniqueWord2.txt
+  398  ls
+  399  cd Desktop
+  400  comm -12 uniqueWord1.txt uniqueWord2.txt
+  401  clear
+  402  history > onurcan.genc.txt
