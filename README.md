@@ -18,11 +18,7 @@ Commands that I used in this Homework:
  * comm -12 uniqueWord1.txt uniqueWord2.txt
 
 
-
-
-
-
-
+![1](https://user-images.githubusercontent.com/55115769/236963275-83fd254a-3e67-4cef-9337-339655cb642f.PNG)
 
 
 
